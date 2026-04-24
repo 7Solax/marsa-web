@@ -1,0 +1,42 @@
+[
+  {
+    "name": "البلد التاريخية",
+    "type": "Historic",
+    "image": "images/historic1.jpg"
+  },
+    {
+    "name": " باب مكة ( سور جدة )",
+    "type": "Historic",
+    "image": "images/historic2.jpg"
+  },
+  {
+    "name": "متحف  – مدينة الطيبات ",
+    "type": "Museum",
+    "image": "images/museum1.jpg"
+  },
+    {
+    "name": "متحف  – بيت نصيف  ",
+    "type": "Museum",
+    "image": "images/museum2.jpg"
+  },
+  {
+    "name": "شاطئ الرمال الفضية ",
+    "type": "Beach",
+    "image": "images/beach1.jpg"
+  },
+    {
+    "name": "شاطئ السيف ",
+    "type": "Beach",
+    "image": "images/beach2.jpg"
+  },
+   {
+    "name": "مسجد الرحمة العائم  ",
+    "type": "Landmark",
+    "image": "images/fountain2.jpg"
+  },
+  {
+    "name": "نافورة الملك فهد",
+    "type": "Landmark",
+    "image": "images/fountain1.jpg"
+  }
+]

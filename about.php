@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>عن جدة — Marsa</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <h1 class="logo">Marsa— Jeddah</h1>
+      <button id="nav-toggle-2" class="nav-toggle">☰</button>
+      <nav class="main-nav" id="main-nav-2">
+        <a href="index.html">الرئيسية</a>
+        <a href="about.html" class="active">عن جدة</a>
+        <a href="destinations.html">الوجهات</a>
+        <a href="contact.html">تواصل معنا</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <article class="about-article">
+
+      <h2>عن جدة</h2>
+
+      <!-- فقرة مختصرة -->
+      <p>
+        جدة مدينة ساحلية على البحر الأحمر، تُعد بوابة الحرمين الشريفين ومركزًا تاريخيًا وتجاريًا مهمًا.
+        تجمع بين التراث العريق في منطقة البلد والحداثة في واجهتها البحرية، مما يجعلها وجهة سياحية مميزة على مدار العام.
+      </p>
+<div class="about-card">
+  <img src="images/albalad1.jpg" alt="البلد — قلب جدة التاريخي">
+  <p class="caption">البلد — القلب التاريخي لجدة</p>
+</div>
+
+      <h3>إحصائيات سريعة</h3>
+
+      <!-- الجدول -->
+      <table class="info-table">
+
+        <thead>
+          <tr>
+            <th>البند</th>
+            <th>التفاصيل</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>الموقع</td>
+            <td>غرب المملكة — ساحل البحر الأحمر</td>
+          </tr>
+          <tr>
+            <td>عدد السكان</td>
+            <td>حوالي 4.6 مليون نسمة</td>
+          </tr>
+          <tr>
+            <td rowspan="2">المناخ</td>
+            <td>حار ورطب صيفًا</td>
+          </tr>
+          <tr>
+            <td>معتدل شتاءً</td>
+          </tr>
+          <tr>
+            <td colspan="2">الاقتصاد يعتمد على السياحة والتجارة والخدمات</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h3>أهم مميزات جدة</h3>
+      <ul>
+        <li>تداخل القديم مع الحديث</li>
+        <li>واجهة بحرية ومرافق ترفيهية</li>
+        <li>أسواق تاريخية في منطقة البلد</li>
+        <li>مراكز تسوق ومتاحف</li>
+      </ul>
+
+      <h3>أحداث سنوية</h3>
+      <ol>
+        <li>مهرجان جدة التاريخي</li>
+        <li>فعاليات البحر الأحمر للفنون</li>
+        <li>مهرجان صيف جدة</li>
+      </ol>
+
+      <h3>عادات وتقاليد</h3>
+      <ul>
+        <li>الضيافة والكرم</li>
+        <li>الاحتفال بالمناسبات الوطنية</li>
+        <li>الاهتمام بالتراث الشعبي</li>
+      </ul>
+
+      <!-- صورة 2 -->
+      <div class="about-card">
+        <img src="images/jeddah_corniche.jpg" alt="واجهة جدة البحرية">
+        <p class="caption">واجهة جدة البحرية — مركز الترفيه والسياحة</p>
+      </div>
+
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© Marsa — Jeddah 2025</p>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
+
