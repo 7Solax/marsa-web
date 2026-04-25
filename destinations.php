@@ -1,34 +1,4 @@
-<!doctype html>
-<html lang="ar" dir="rtl">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>الوجهات — Marsa Jeddah</title>
-  <link rel="stylesheet" href="css/style.css">
-</head>
-
-<body>
-
-  <!-- ========== HEADER ========== -->
-  <header class="site-header">
-    <div class="container header-inner">
-      <h1 class="logo">Marsa — Jeddah</h1>
-
-      <!-- زر القائمة للجوال -->
-      <button id="nav-toggle-3" class="nav-toggle" aria-expanded="false" aria-label="فتح القائمة">
-        ☰
-      </button>
-
-      <!-- روابط التنقل -->
-      <nav class="main-nav" id="main-nav-3">
-        <a href="index.html">الرئيسية</a>
-        <a href="about.html">عن جدة</a>
-        <a href="destinations.html" class="active">الوجهات</a>
-        <a href="contact.html">تواصل معنا</a>
-      </nav>
-    </div>
-  </header>
-
+<?php include 'header.php'; ?>
   <!-- ========== MAIN ========== -->
   <main class="container">
 
@@ -54,15 +24,4 @@
   </main>
 
   <!-- ========== FOOTER ========== -->
-  <footer class="site-footer">
-    <div class="container">
-      <p>© Marsa — Jeddah 2025</p>
-    </div>
-  </footer>
-
-  <!-- ملفات JS -->
-  <script src="js/ajax.js"></script>
-  <script src="js/main.js"></script>
-
-</body>
-</html>
+<?php include 'footer.php'; ?>

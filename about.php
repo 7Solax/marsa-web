@@ -1,27 +1,4 @@
-<!DOCTYPE html>
-<html lang="ar" dir="rtl">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>عن جدة — Marsa</title>
-  <link rel="stylesheet" href="css/style.css">
-</head>
-
-<body>
-
-  <header class="site-header">
-    <div class="container header-inner">
-      <h1 class="logo">Marsa— Jeddah</h1>
-      <button id="nav-toggle-2" class="nav-toggle">☰</button>
-      <nav class="main-nav" id="main-nav-2">
-        <a href="index.html">الرئيسية</a>
-        <a href="about.html" class="active">عن جدة</a>
-        <a href="destinations.html">الوجهات</a>
-        <a href="contact.html">تواصل معنا</a>
-      </nav>
-    </div>
-  </header>
-
+<?php include 'header.php'; ?>
   <main class="container">
     <article class="about-article">
 
@@ -101,13 +78,4 @@
     </article>
   </main>
 
-  <footer class="site-footer">
-    <div class="container">
-      <p>© Marsa — Jeddah 2025</p>
-    </div>
-  </footer>
-
-  <script src="js/main.js"></script>
-</body>
-</html>
-
+  <?php include 'footer.php'; ?>
