@@ -16,6 +16,7 @@
         <a href="index.php">الرئيسية</a>
         <a href="about.php">عن جدة</a>
         <a href="destinations.php">الوجهات</a>
+        <a href="restaurants.php">المطاعم</a>
         <a href="contact.php">تواصل معنا</a>
       </nav>
     </div>
