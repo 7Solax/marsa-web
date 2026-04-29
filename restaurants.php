@@ -6,21 +6,23 @@
     <section class="gallery">
         <div class="dest-card">
             <img src="images/century.jpg" alt="سنشري برجر">
-            <div class="content"><h3>سنشري برجر</h3><p>أفضل برجر جورميه.</p></div>
+            <div class="content"><h3>سنشري برجر</h3><p>أفضل برجر جورميه.</p>
+        <a href="restaurant_details.php?id=1" class="link">التفاصيل ←</a>
+        </div>
         </div>
 
         <div class="dest-card">
-            <img src="images/whitewood.jpg" alt="وايت وود">
+            <img src="images/whitewood.jpg.jpg" alt="وايت وود">
             <div class="content"><h3>وايت وود</h3><p>مطعم إيطالي - حي الشاطئ.</p></div>
         </div>
 
         <div class="dest-card">
-            <img src="images/papaya.jpg" alt="بابايا">
+            <img src="images/papaya" alt="بابايا">
             <div class="content"><h3>مطعم بابايا</h3><p>أطباق عالمية في أجواء طبيعية.</p></div>
         </div>
 
         <div class="dest-card">
-            <img src="images/cozodre.jpg" alt="كوزودرة">
+            <img src="images/cozodre" alt="كوزودرة">
             <div class="content"><h3>مطعم كوزودرة</h3><p>أشهى الموالح والمشاوي اللبنانية.</p></div>
         </div>
     </section>
