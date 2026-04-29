@@ -12,19 +12,22 @@
         </div>
 
         <div class="dest-card">
-            <img src="images/whitewood.jpg.jpg" alt="وايت وود">
-            <div class="content"><h3>وايت وود</h3><p>مطعم إيطالي - حي الشاطئ.</p></div>
-        </div>
+    <img src="images/whitewood.jpeg" alt="وايت وود">
+    <div class="content"><h3>وايت وود</h3><p>مطعم إيطالي - حي الشاطئ.</p></div>
 
-        <div class="dest-card">
-            <img src="images/papaya" alt="بابايا">
-            <div class="content"><h3>مطعم بابايا</h3><p>أطباق عالمية في أجواء طبيعية.</p></div>
-        </div>
+</div>
 
-        <div class="dest-card">
-            <img src="images/cozodre" alt="كوزودرة">
-            <div class="content"><h3>مطعم كوزودرة</h3><p>أشهى الموالح والمشاوي اللبنانية.</p></div>
-        </div>
+<div class="dest-card">
+    <img src="images/papaya.jpeg" alt="بابايا">
+    <div class="content"><h3>مطعم بابايا</h3><p>أطباق عالمية في أجواء طبيعية.</p></div>
+
+</div>
+
+<div class="dest-card">
+    <img src="images/cozodre.jpeg" alt="كوزودرة">
+    <div class="content"><h3>مطعم كوزودرة</h3><p>أشهى الموالح والمشاوي اللبنانية.</p></div>
+
+</div>
     </section>
 </main>
 
